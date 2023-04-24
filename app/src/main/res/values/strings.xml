@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="standard">Estandar</string>
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metrica</string>
+    <string name="dark">Oscuro</string>
+    <string name="light">Claro</string>
+    <string name="defecto">Defecto</string>
+</resources>
